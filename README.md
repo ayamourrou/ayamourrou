@@ -1,6 +1,6 @@
 👋 Hi, I’m @ayamourrou
 
-👀 I’m interested in Java, Spring Boot, JEE, PHP, Symfony, Laravel, Livewire, HTML, CSS, JavaScript, and Angular.
+👀 I’m interested in Java, Spring Boot, JEE, HTML, CSS, JavaScript, and Angular.
 
 🌱 I’m currently learning more about advanced patterns in framework usage and enhancing my full stack development skills.
 
